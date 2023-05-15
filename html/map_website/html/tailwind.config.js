@@ -15,6 +15,9 @@ module.exports = {
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
+      gotham_black: ["Gotham_black"],
+      gotham_book: ["Gotham_book"]
+
     },
     extend: {
       spacing: {
